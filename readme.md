@@ -19,10 +19,10 @@ Some favorite SF authors beginning with B:
 	2. Post Lyme Disease Syndrome and other persistent inflammatory conditions. 
 2. The Universe
 3. Everything
-	a. You
-	b. Me
-	c. Us
-	d. Them
+	1. You
+	2. Me
+	3. Us
+	4. Them
 
 ### Contact
 
