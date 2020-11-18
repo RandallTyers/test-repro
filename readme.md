@@ -15,14 +15,14 @@ Some favorite SF authors beginning with B:
 ### Things I wish I understood better 
 
 1. Life
-a. Gene conversion and other types of homology dependent repair
-b. Post Lyme Disease Syndrome and other persistent inflammatory conditions. 
+	1. Gene conversion and other types of homology dependent repair
+	2. Post Lyme Disease Syndrome and other persistent inflammatory conditions. 
 2. The Universe
 3. Everything
-a. You
-b. Me
-c. Us
-d. Them
+	a. You
+	b. Me
+	c. Us
+	d. Them
 
 ### Contact
 
