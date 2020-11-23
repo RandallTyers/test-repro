@@ -27,3 +27,9 @@ Some favorite SF authors beginning with B:
 ### Contact
 
 Why would you want to?  I'm still hiding from myself, so this probably isn't going to work ... 
+
+### Code
+
+```bash
+echo "That was pointless"
+```
